@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a27d28d8-9d20-47ab-a692-9fded3a9e17c" />
+</p> 
 
 <!--
 **ravinyan/ravinyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
